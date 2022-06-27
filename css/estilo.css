@@ -1,0 +1,116 @@
+*/{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: #f2f2f2 url(../imagens/fundo.png) no-repeat;
+	background-size: 100%;
+	font: 12px "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+}
+
+
+
+#conteudo{
+	width: 920px;
+	height: 680px;
+	margin: 200px;
+	background: #e6e6e6;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+/*.item1{
+	width: 380px;
+	height: 310px;
+	margin: 10px;
+	background: red;
+	border: 1px solid red ;
+}*/
+
+
+.item1{
+	width: 350px;
+	height: 280px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background: #7441C7;
+	padding: 20px;
+	justify-content: flex-start;
+	border-radius: 15px;
+
+}
+
+.item2{
+	width: 200px;
+	height: 280px;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	background: #48556A;
+	padding: 20px;
+	border-radius: 15px;
+
+}
+
+.item3{
+	width: 200px;
+	height: 600px;
+	float: right;
+	background: #FFFFFF;
+	padding: 20px;
+	border-radius: 15px;
+}
+.item4{
+	width: 200px;
+	height: 280px;
+	margin-right: 20px;
+	background: #FFFFFF;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+.item5{
+	width: 380px;
+	height: 310px;
+	float: left;
+	margin-right: 20px;
+	background: #19202E;
+	padding: 20px;
+	border-radius: 15px;
+}
+
+h1{
+	font-size: 1em;
+	color: #fff;
+}
+
+h2{
+	font-size: 0.8em;
+	color: #fff;
+}
+
+h3{
+	font-size: 1em;
+	color: #fff;
+	
+}
+
+h4{
+	font-size: 1em;
+	color: black;
+	
+}
+
+h5{
+	font-size: 1em;
+	color: black;
+}
+
+img{
+	border-radius: 150px;
+	float: left;
+}
