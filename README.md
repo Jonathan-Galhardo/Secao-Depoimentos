@@ -8,3 +8,6 @@ Os usuários devem ser capazes de:
 
 Visualizar o layout ideal para o site, independente do tamanho da tela do dispositivo.
   
+Layout Esperado 
+
+https://github.com/Jonathan-Galhardo/Secao-Depoimentos/issues/1#issue-1285140680
