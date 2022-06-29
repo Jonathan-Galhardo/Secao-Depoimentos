@@ -6,10 +6,13 @@ O desafio é construir esta seção de grade de depoimentos e fazê-la parecer o
 
 Os usuários devem ser capazes de:
 Visualizar o layout ideal para o site, independente do tamanho da tela do dispositivo.
+
+## Minha Solução:
+https://user-images.githubusercontent.com/89818336/176440032-3c5cf445-6074-40ac-8924-e3d431e4507f.mp4
   
-# Layout Proposto (Computador):
+## Layout Proposto (Computador):
 ![desktop-design](https://user-images.githubusercontent.com/89818336/175848441-47c8fbe4-6b88-4ead-bcd3-24a86ee458bd.jpg)
 
-# Layout Proposto (celular):
+## Layout Proposto (celular):
 
 ![mobile-design](https://user-images.githubusercontent.com/89818336/175848568-e8f91093-0383-4396-8aac-b78b9b5de562.jpg)
