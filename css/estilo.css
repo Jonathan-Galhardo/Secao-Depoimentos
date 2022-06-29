@@ -7,10 +7,10 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    margin:0;
-    padding:0;
+    margin:20px;
+    padding:0px;
     box-sizing: border-box;
-    background-color:#cfcfcf;
+    background: #f8f8ff;
     height:100vh;
     font-family: "Goudy Bookletter 1911", sans-serif;
     
@@ -42,14 +42,6 @@ body{
     border: 2px solid #800080
 }
 
-
-.conteudo-1{
-    background-color:#7541c8;
-    grid-area: a;
-    padding: 30px;
-    box-shadow: 0 0 1.5em black;
-}
-
 h2{
     color: white;
     font-size: 0.7em;
@@ -67,21 +59,32 @@ p{
     font-size: 0.8em;
 }
 
-
-
+.conteudo-1{
+    background-color:#7541c8;
+    grid-area: a;
+    padding: 30px;
+    box-shadow: 0 0 1.5em #dcdcdc;
+    border: 0.1px solid #dcdcdc;
+}
 
 .conteudo-2{
     background-color:#48556a;
     grid-area: b;
     padding: 30px;
-    box-shadow: 0 0 1.5em black;
+    box-shadow: 0 0 1.5em #dcdcdc;
+    border: 0.1px solid #dcdcdc;
+}
+
+.conteudo-2 h4{
+    font-size: 1.1em;
 }
 
 .conteudo-3{
     grid-area: c;
     background-color:#ffffff;
     padding: 30px;
-    box-shadow: 0 0 1.5em black;
+    box-shadow: 0 0 1.5em #dcdcdc;
+    border: 0.1px solid #dcdcdc;
 }
 
 .conteudo-3 h2, .conteudo-3 h1{
@@ -97,14 +100,20 @@ p{
     grid-area: e;
     background-color: #19212e;
     padding: 30px;
-    box-shadow: 0 0 1.5em black;
+    box-shadow: 0 0 1.5em #dcdcdc;
+    border: 0.1px solid #dcdcdc;
 }
 
 .conteudo-5{
     grid-area: d;
     background-color:#ffffff;   
     padding: 30px;
-    box-shadow: 0 0 1.5em black;
+    box-shadow: 0 0 1.5em #dcdcdc;
+    border: 0.1px solid #dcdcdc;
+}
+
+.conteudo-5 h4{
+    font-size: 1.1em;
 }
 
 .conteudo-5 h2, .conteudo-5 h1{
